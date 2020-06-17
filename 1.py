@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 17 21:12:35 2020
 
-@author: pragy
+@author: PRAGYA
 """
 
 from numpy import *
