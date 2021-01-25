@@ -21,7 +21,8 @@ def fact(N):
                 return N/i
             else:
                 fact(N/i)
-        i+=1    
-print(fact())
-'''rime dividing by  i=1 to N/2     '''  
+        i+=1  
+N=int(input())
+print(fact(N))
+'''Prime dividing by  i=1 to N/2     '''  
   
