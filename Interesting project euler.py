@@ -6,18 +6,19 @@ Created on Sat May 16 00:17:39 2020
 """
 
 '''2520 is the smallest number that can be divided by each of the numbers from 1 to 10 
-without any remainder.What is the smallest positive number that is evenly
- divisible by all of the numbers from 1 to 20?
- 20 1 2 4 5 10 20
- 19
- 18 1 2 3 6 9 18
- 17
- 16 1 2 4 8 
- 15 1 3 5 15
- 14 1 2 7 14
- 13 
- 12 1 2 3 4 6 12
- 11 
+   without any remainder.
+   What is the smallest positive number that is evenly
+   divisible by all of the numbers from 1 to 20?
+    20 1 2 4 5 10 20
+    19
+    18 1 2 3 6 9 18
+    17
+    16 1 2 4 8 
+    15 1 3 5 15
+   14 1 2 7 14
+   13 
+   12 1 2 3 4 6 12
+   11 
  
  '''
 def divide(a,B):
